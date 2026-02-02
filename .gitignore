@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Temporary/lock files
+.~lock.*
+~$*
+
+# Large video file (exceeds GitHub 100MB limit)
+millikan_tracking_full.mp4
+
+# Claude Code local files
+.claude/
