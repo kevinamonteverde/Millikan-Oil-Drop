@@ -1,0 +1,10 @@
+{
+  "detection_threshold": 10,
+  "min_area": 4,
+  "max_area": 350,
+  "min_brightness": 75,
+  "max_tracking_dist": 10,
+  "gap_tolerance": 3,
+  "min_segment_frames": 8,
+  "min_track_frames": 30
+}
